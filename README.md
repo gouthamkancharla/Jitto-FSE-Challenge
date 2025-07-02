@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Jitto FSE Challenge
 
 This repository contains my solution to the Jitto Full Stack Engineer Challenge. The notebook includes all steps from data preprocessing to modeling and final analysis.
@@ -29,7 +28,6 @@ To run the project:
 
 2. **Upload the data file**:  
    Place `unrest.csv` in the `/content/` directory.
-````
 
 3. **Run all cells**:
    Go to the menu: `Runtime > Run all`.
@@ -45,7 +43,6 @@ No installation needed in Colab. If running locally, you may need:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
-
 ---
 
 ## 📌 Notes
